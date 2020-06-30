@@ -24,6 +24,7 @@ https://docs.google.com/document/d/1alv433NpcmSsteQpbXR5OGWcF-3XErqJuvVmkBET-8g/
 # Slides 
 *PDF*
 https://github.com/MehaRima/WebApplication/blob/master/PPT%20Major%20project.pdf
+
 *Google Slides*
 https://docs.google.com/presentation/d/1uTM_rTVlEaN3T8HKYE_00S49B31z2SRQOwuoUglfGQM/edit?usp=sharing
 
