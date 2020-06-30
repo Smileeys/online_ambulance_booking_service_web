@@ -14,8 +14,12 @@ https://docs.google.com/document/d/e/2PACX-1vSNHORkCzjNMBzHy1qewcqMhWAtXiYp2ru2l
 https://meharima.github.io/WebApplication/
 
 # Presentation update : 30.06.2020
-
+https://docs.google.com/document/d/1alv433NpcmSsteQpbXR5OGWcF-3XErqJuvVmkBET-8g/edit?usp=sharing
+*or*
 https://clipchamp.com/watch/vNuQG1hzpB5
+
+# Documentation
+https://docs.google.com/document/d/1alv433NpcmSsteQpbXR5OGWcF-3XErqJuvVmkBET-8g/edit?usp=sharing
 
 ## Be respectful when you communicate ##
 
