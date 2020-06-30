@@ -21,6 +21,7 @@ https://clipchamp.com/watch/vNuQG1hzpB5
 # Documentation
 https://docs.google.com/document/d/1alv433NpcmSsteQpbXR5OGWcF-3XErqJuvVmkBET-8g/edit?usp=sharing
 
+
 ## Be respectful when you communicate ##
 
 *Ask for help,get the help.*
