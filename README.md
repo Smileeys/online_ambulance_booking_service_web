@@ -13,6 +13,10 @@ https://docs.google.com/document/d/e/2PACX-1vSNHORkCzjNMBzHy1qewcqMhWAtXiYp2ru2l
 
 https://meharima.github.io/WebApplication/
 
+# Presentation update : 30.06.2020
+
+https://clipchamp.com/watch/vNuQG1hzpB5
+
 ## Be respectful when you communicate ##
 
 *Ask for help,get the help.*
